@@ -6,7 +6,7 @@ ActiveRecord::Base.establish_connection(
     :adapter => "mysql2",
     :host => "192.168.33.10",
     :username => "root",
-    :password => "root",
+    :password => "password",
     :database => "test"
 )
 

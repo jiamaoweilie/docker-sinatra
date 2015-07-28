@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build -t docker-sinatra .
+sudo docker build -t docker-sinatra .
